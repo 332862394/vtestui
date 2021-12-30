@@ -1,7 +1,6 @@
 {
   "name": "vtestui",
   "version": "0.0.1",
-  "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -42,7 +41,7 @@
     ]
   },
   "description": "这是测试UI",
-  "main": ".eslintrc.js",
+  "main": "./index.js",
   "directories": {
     "test": "tests"
   },
