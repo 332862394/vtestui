@@ -1,6 +1,6 @@
 {
   "name": "vtestui",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -40,5 +40,23 @@
       "vue-cli-service lint",
       "git add"
     ]
-  }
+  },
+  "description": "这是测试UI",
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/332862394/vtestui.git"
+  },
+  "keywords": [
+    "ui"
+  ],
+  "author": "jl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/332862394/vtestui/issues"
+  },
+  "homepage": "https://github.com/332862394/vtestui#readme"
 }
